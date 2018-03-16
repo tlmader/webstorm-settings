@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="browserPath" value="/Applications/Google Chrome Canary.app" />
     <option name="confirmExit" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>

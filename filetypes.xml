@@ -4,6 +4,7 @@
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="PULL_REQUEST_TEMPLATE.md" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="router" type="TypeScript" />
     </extensionMap>
